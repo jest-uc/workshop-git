@@ -1,6 +1,6 @@
 # JEST internal workshop &#8594; Git + GitHub
 
-Basic workshop on using Git and GitHub.
+Internal training workshop to introduce Git and GitHub.
 
 ## Requirements
 
