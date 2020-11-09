@@ -25,7 +25,7 @@ git config --global user.name “[firstname lastname]”
 # set your email for version history
 git config --global user.email “[valid-email]”
 # set automatic staining of command line for Git
-git
+git config --global color.ui auto
 ```
 
 ## Topics
