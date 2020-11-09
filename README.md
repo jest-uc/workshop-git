@@ -25,7 +25,7 @@ git config --global user.name “[firstname lastname]”
 # set your email for version history
 git config --global user.email “[valid-email]”
 # set automatic staining of command line for Git
-git config --global color.ui auto
+git
 ```
 
 ## Topics
@@ -33,7 +33,7 @@ git config --global color.ui auto
 - [ ] `git init` - create a Git repository.
 - [ ] `git add [file]` - add or update changes.
   - [ ] `git add .` - add all updates in working directory.
-- [ ] `git commit -m “[descriptive message]”` - commit your added content. 
+- [ ] `git commit -m “[descriptive message]”` - commit your added content.
 - [ ] `git status` - show modified files in working directory.
 - [ ] `git log` - show all commits in the current branch’s history.
 - [ ] `git show` - show modified files in working directory.
@@ -42,7 +42,6 @@ git config --global color.ui auto
   - [ ] `git branch -D [branch]` - delete a branch.
 - [ ] `git checkout [branch]` - switch to another branch.
   - [ ] `git checkout -b [branch]` - create a branch and switch to it.
-- [ ] `git diff` - show the diff of what is in branchA that is not in branchB.
 - [ ] `git merge` - merge branches.
 - [ ] `git push` - transmit local branch commits to the remote repository branch.
 - [ ] `git clone [url]` - clone a remote repository.
