@@ -36,7 +36,7 @@ git config --global credential.helper store (optional)
 - [x] `git add [file]` - add or update changes.
   - [x] `git add .` - add all updates in working directory.
 - [x] `git commit -m “[descriptive message]”` - commit your added content.
-  - [ ] `git commit -am “[descriptive message]”` - update changes and commit.
+  - [x] `git commit -am “[descriptive message]”` - update changes and commit.
 - [x] `git status` - show modified files in working directory.
 - [x] `git log` - show all commits in the current branch’s history.
 - [x] `git show` - show modified files in working directory.
@@ -49,8 +49,8 @@ git config --global credential.helper store (optional)
   - [x] - `git merge branchA branchB`
 - [x] `git clone [url]` - clone a remote 
 repository.
-- [ ] `git push` - transmit local branch commits to the remote repository branch.
-- [ ] `git pull` - pull from the remote repository.
+- [x] `git push` - transmit local branch commits to the remote repository branch.
+- [x] `git pull` - pull from the remote repository.
 
 ## Advanced Topics
 
@@ -61,7 +61,7 @@ repository.
 - [ ] recovery deleted file.
   - `git log` (look for the commit where the file was deleted)
   - `git checkout [checkpoint] -- filename`
-- [ ] adding an existing project to GitHub.
+- [x] adding an existing project to GitHub.
   - `git init -b main` - create a new project.
   - `git commit -m "First commit"` - add files and commit.
   - `git remote add origin [remote repository URL]` - sets the new remote repository.
@@ -91,19 +91,10 @@ repository.
 
 This workshop uses complementary materials 1 and 2 as a source.
 
-<!--
 ## Participants
-[@avram](https://github.com/avram)
-[@carolina](https://github.com/user)
-[@jorge](https://github.com/user)
-[@luis](https://github.com/user)
-[@matilde](https://github.com/user)
-[@milene](https://github.com/user)
-[@nuno](https://github.com/user)
-[@rafael](https://github.com/user)
-[@tiago](https://github.com/tamagusko)
-[@vasco](https://github.com/user)
--->
+
+[@avram](https://github.com/Avramgincu) [@jorge](https://github.com/JorgeFCTeixeira) [@luis](https://github.com/lmonteiro18) [@matilde](https://github.com/matisims) [@milene](https://github.com/MileneJesus)
+[@nuno](https://github.com/NunoAGM) [@tiago](https://github.com/tamagusko) [@vasco](https://github.com/VascoMSantos)
 
 ## License
 
