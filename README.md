@@ -25,30 +25,31 @@ git config --global user.name “[firstname lastname]”
 # set your email for version history
 git config --global user.email “[valid-email]”
 # set automatic staining of command line for Git
-git config --global color.ui auto
+git config --global color.ui auto (optional)
 # save credentials
-git config --global credential.helper store
+git config --global credential.helper store (optional)
 ```
 
 ## Topics
 
-- [ ] `git init` - create a Git repository.
-- [ ] `git add [file]` - add or update changes.
-  - [ ] `git add .` - add all updates in working directory.
-- [ ] `git commit -m “[descriptive message]”` - commit your added content.
+- [x] `git init` - create a Git repository.
+- [x] `git add [file]` - add or update changes.
+  - [x] `git add .` - add all updates in working directory.
+- [x] `git commit -m “[descriptive message]”` - commit your added content.
   - [ ] `git commit -am “[descriptive message]”` - update changes and commit.
-- [ ] `git status` - show modified files in working directory.
-- [ ] `git log` - show all commits in the current branch’s history.
-- [ ] `git show` - show modified files in working directory.
-- [ ] `git branch` - manage your branches.
-  - [ ] `git branch [branch]` - create a new branch.
-  - [ ] `git branch -D [branch]` - delete a branch.
-- [ ] `git checkout [branch]` - switch to another branch.
-  - [ ] `git checkout -b [branch]` - create a branch and switch to it.
-- [ ] `git merge` - merge branches.
-  - [ ] - `git merge branchA branchB`
+- [x] `git status` - show modified files in working directory.
+- [x] `git log` - show all commits in the current branch’s history.
+- [x] `git show` - show modified files in working directory.
+- [x] `git branch` - manage your branches.
+  - [x] `git branch [branch]` - create a new branch.
+  - [x] `git branch -D [branch]` - delete a branch.
+- [x] `git checkout [branch]` - switch to another branch.
+  - [x] `git checkout -b [branch]` - create a branch and switch to it.
+- [x] `git merge` - merge branches.
+  - [x] - `git merge branchA branchB`
+- [x] `git clone [url]` - clone a remote 
+repository.
 - [ ] `git push` - transmit local branch commits to the remote repository branch.
-- [ ] `git clone [url]` - clone a remote repository.
 - [ ] `git pull` - pull from the remote repository.
 
 ## Advanced Topics
@@ -92,7 +93,7 @@ This workshop uses complementary materials 1 and 2 as a source.
 
 <!--
 ## Participants
-[@avram](https://github.com/user)
+[@avram](https://github.com/avram)
 [@carolina](https://github.com/user)
 [@jorge](https://github.com/user)
 [@luis](https://github.com/user)
