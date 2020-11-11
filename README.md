@@ -26,6 +26,8 @@ git config --global user.name “[firstname lastname]”
 git config --global user.email “[valid-email]”
 # set automatic staining of command line for Git
 git config --global color.ui auto
+# save credentials
+git config --global credential.helper store
 ```
 
 ## Topics
@@ -34,6 +36,7 @@ git config --global color.ui auto
 - [ ] `git add [file]` - add or update changes.
   - [ ] `git add .` - add all updates in working directory.
 - [ ] `git commit -m “[descriptive message]”` - commit your added content.
+  - [ ] `git commit -am “[descriptive message]”` - update changes and commit.
 - [ ] `git status` - show modified files in working directory.
 - [ ] `git log` - show all commits in the current branch’s history.
 - [ ] `git show` - show modified files in working directory.
@@ -43,6 +46,7 @@ git config --global color.ui auto
 - [ ] `git checkout [branch]` - switch to another branch.
   - [ ] `git checkout -b [branch]` - create a branch and switch to it.
 - [ ] `git merge` - merge branches.
+  - [ ] - `git merge branchA branchB`
 - [ ] `git push` - transmit local branch commits to the remote repository branch.
 - [ ] `git clone [url]` - clone a remote repository.
 - [ ] `git pull` - pull from the remote repository.
@@ -51,7 +55,7 @@ git config --global color.ui auto
 
 - [ ] Ignoring files
   - create a file named .gitignore (linux: `touch .gitignore`)
-  - `git rm --cached [filename]` - file to ignore.
+  - `git rm --cached [filename]` - file to ignore (don't remove it).
   - see [gitignore.io](https://www.gitignore.io/) and [github/gitignore](https://github.com/github/gitignore) for more information.
 - [ ] recovery deleted file.
   - `git log` (look for the commit where the file was deleted)
@@ -85,6 +89,20 @@ git config --global color.ui auto
 - [4] [Open Source Git Workflow](https://dev.to/adamreidelbach/open-source-git-workflow-an-overview-2oo2)
 
 This workshop uses complementary materials 1 and 2 as a source.
+
+<!--
+## Participants
+[@avram](https://github.com/user)
+[@carolina](https://github.com/user)
+[@jorge](https://github.com/user)
+[@luis](https://github.com/user)
+[@matilde](https://github.com/user)
+[@milene](https://github.com/user)
+[@nuno](https://github.com/user)
+[@rafael](https://github.com/user)
+[@tiago](https://github.com/tamagusko)
+[@vasco](https://github.com/user)
+-->
 
 ## License
 
