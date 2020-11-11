@@ -7,3 +7,9 @@ fig/workshop-2209239_1920.jpg
 
 # VSCode
 .vscode
+
+# Markdown Backup
+*.md.backup
+
+# backup folder
+/bkp/*

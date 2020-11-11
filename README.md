@@ -86,7 +86,8 @@ git config --global credential.helper store
 - [1] [Git Guide](https://github.com/git-guides/) - Explanation of almost everything you need on github.
 - [2] [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - A quick reference to the Github commands.
 - [3] [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - A quick reference to the Markdown syntax.
-- [4] [Open Source Git Workflow](https://dev.to/adamreidelbach/open-source-git-workflow-an-overview-2oo2)
+- [4] [Open Source Git Workflow](https://dev.to/adamreidelbach/open-source-git-workflow-an-overview-2oo2) - Open Source Git Workflow (an overview).
+- [5] [Git tricks](https://devhints.io/git-tricks) - Git tricks cheat sheet.
 
 This workshop uses complementary materials 1 and 2 as a source.
 
