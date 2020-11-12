@@ -94,7 +94,7 @@ This workshop uses complementary materials 1 and 2 as a source.
 ## Participants
 
 [@avram](https://github.com/Avramgincu) [@jorge](https://github.com/JorgeFCTeixeira) [@luis](https://github.com/lmonteiro18) [@matilde](https://github.com/matisims) [@milene](https://github.com/MileneJesus)
-[@nuno](https://github.com/NunoAGM) [@tiago](https://github.com/tamagusko) [@vasco](https://github.com/VascoMSantos)
+[@nuno](https://github.com/NunoAGM) [@tamagusko](https://github.com/tamagusko) [@vasco](https://github.com/VascoMSantos)
 
 ## License
 
