@@ -2,9 +2,8 @@
 
 This document is the result of the Junior Enterprise for Science and Technology team's internal training workshop held on November 11, 2020.
 
-**Version: v1.00 (2020-11-14)**  
-**Author:  [Tiago Tamagusko](https://github.com/tamagusko)**  
-**License: [MIT](https://raw.githubusercontent.com/tamagusko/workshop-git/master/LICENSE) © [Tamagusko](https://github.com/tamagusko) & [JEST](https://jest.pt).**
+**Version: v1.01 (2020-11-15)**  
+**Copyright (c) 2020, [Tiago Tamagusko](https://github.com/tamagusko).**
 
 ## Installation
 
@@ -191,9 +190,9 @@ git branch -D my_feature_name
 git push origin --delete my_feature_name
 ```
 
-### Found an error or have any suggestions?
+Please direct bug reports and pull requests to the [GitHub page](https://github.com/tamagusko/workshop-git). To contact me directly, send email to tamagusko@gmail.com.
 
-Send your suggestions to [geral@jest.pt](mailto: geral@jest.pt) or access [workshop-git](https://github.com/tamagusko/workshop-git) and make a PR in the file: MANUAL.md.
+-- Tiago
 
 ## References
 

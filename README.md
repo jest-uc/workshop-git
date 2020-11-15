@@ -48,6 +48,12 @@ quick reference to the Markdown syntax.
 [@avram](https://github.com/Avramgincu) [@jorge](https://github.com/JorgeFCTeixeira) [@luis](https://github.com/lmonteiro18) [@matilde](https://github.com/matisims) [@milene](https://github.com/MileneJesus)
 [@nuno](https://github.com/NunoAGM) [@tamagusko](https://github.com/tamagusko) [@vasco](https://github.com/VascoMSantos)
 
+----
+
+Please direct bug reports and pull requests to the GitHub page. To contact me directly, send email to tamagusko@gmail.com.
+
+-- Tiago
+
 ## License
 
-[MIT](LICENSE) © [Tamagusko](https://tamagusko.github.io/) & [JEST](https://jest.pt/).
+Copyright (c) 2020, [Tiago Tamagusko](https://github.com/tamagusko).
