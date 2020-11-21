@@ -2,13 +2,13 @@
 
 This document is the result of the Junior Enterprise for Science and Technology team's internal training workshop held on November 11, 2020.
 
-**Version: v1.01 (2020-11-15)**
+**Version: v1.05 (2020-11-21)**  
 **Copyright (c) 2020, [Tiago Tamagusko](https://github.com/tamagusko).**
 
 ## Installation
 
 1. Install [Git](https://github.com/git-guides/install-git).
-1. Create a [GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/signing-up-for-github) account.
+2. Create a [GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/signing-up-for-github) account.
 
 Git was installed? At the terminal:
 
@@ -33,13 +33,13 @@ git config --list
 
 ### Topics
 
-[What is Git?](#what-is-git)
-[Git workflow](#git-github-workflow)
-[Basic Git commands](#basic-git-commands)
-[Tricks to make your life easy](#tricks-to-make-your-life-easy)
-[Creating a local repository](#creating-a-local-repository)
-[Ignoring files](#ignoring-files)
-[Track works in project](#track-works-in-project)
+[What is Git?](#what-is-git)  
+[Git workflow](#git-github-workflow)  
+[Basic Git commands](#basic-git-commands)  
+[Tricks to make your life easy](#tricks-to-make-your-life-easy)  
+[Creating a local repository](#creating-a-local-repository)  
+[Ignoring files](#ignoring-files)  
+[Track works in project](#track-works-in-project)  
 [Contribute to an open source project](#contribute-to-an-open-source-project-3)
 
 ### What is Git?
@@ -129,8 +129,8 @@ git push origin main
 
 ### Ignoring files
 
-*Create a file named .gitignore:*
-*linux/mac: `touch .gitignore`
+*Create a file named .gitignore:*  
+*linux/mac: `touch .gitignore`  
 windows: `echo . > .gitignore`*
 
 *At terminal, in the working directory type:*
@@ -192,14 +192,14 @@ git branch -D my_feature_name
 git push origin --delete my_feature_name
 ```
 
-Please direct bug reports and pull requests to the [GitHub page](https://github.com/tamagusko/workshop-git). To contact me directly, send email to tamagusko@gmail.com.
+Please direct bug reports and pull requests to the [GitHub page](https://github.com/tamagusko/workshop-git). To contact me directly, send an [email](mailto:tamagusko@gmail.com).
 
 -- Tiago
 
 ## References
 
-[1] [Git Guide](https://github.com/git-guides/) - Explanation of almost everything you need on github.
-[2] [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - A quick reference to the Github commands.
-[3] [Open Source Git Workflow](https://dev.to/adamreidelbach/open-source-git-workflow-an-overview-2oo2) - Open Source Git Workflow (an overview).
-[4] [Git workflow](https://dev.to/mollynem/git-github--workflow-fundamentals-5496) - Workflow & Commonly Used Commands.
+[1] [Git Guide](https://github.com/git-guides/) - Explanation of almost everything you need on github.  
+[2] [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - A quick reference to the Github commands.  
+[3] [Open Source Git Workflow](https://dev.to/adamreidelbach/open-source-git-workflow-an-overview-2oo2) - Open Source Git Workflow (an overview).  
+[4] [Git workflow](https://dev.to/mollynem/git-github--workflow-fundamentals-5496) - Workflow & Commonly Used Commands.  
 [5] [GitHub flow](https://github.com/SvanBoxel/release-based-workflow/issues/1) - The GitHub flow.
