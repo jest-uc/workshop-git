@@ -56,4 +56,4 @@ Please direct bug reports and pull requests to the GitHub page. To contact me di
 
 ## License
 
-Copyright (c) 2020, [Tiago Tamagusko](https://github.com/tamagusko).
+[Copyright](LICENSE) (c) 2020, [Tiago Tamagusko](https://github.com/tamagusko).
