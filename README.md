@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/jest-uc/img/main/src/head.png)
+
 # JEST internal workshop &#8594; Git + GitHub
 
 Internal training workshop to introduce Git and GitHub. See more details in [MANUAL.md](MANUAL.md) or in [manualGIT_JESTv1.pdf](manualGIT_JESTv1.pdf)
