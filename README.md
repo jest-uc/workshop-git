@@ -2,7 +2,7 @@
 
 # JEST internal workshop &#8594; Git + GitHub
 
-Internal training workshop to introduce Git and GitHub. See more details in [MANUAL.md](MANUAL.md) or in [manualGIT_JESTv1.pdf](manualGIT_JESTv1.pdf)
+Internal training workshop to introduce Git and GitHub. See more details in [MANUAL.md](MANUAL.md) or in [manualGIT_JESTv2.pdf](manualGIT_JESTv2.pdf)
 
 ## Requirements
 
@@ -47,9 +47,12 @@ quick reference to the Markdown syntax.
 
 ## Participants
 
+### 1st workshop (2020-11-11):
+
 [@avram](https://github.com/Avramgincu) [@jorge](https://github.com/JorgeFCTeixeira) [@luis](https://github.com/lmonteiro18) [@matilde](https://github.com/matisims) [@milene](https://github.com/MileneJesus)
 [@nuno](https://github.com/NunoAGM) [@tamagusko](https://github.com/tamagusko) [@vasco](https://github.com/VascoMSantos)
 
+### 2nd workshop (2020-05-29):
 ----
 
 Please direct bug reports and pull requests to the GitHub page. To contact me directly, send email to tamagusko@gmail.com.
