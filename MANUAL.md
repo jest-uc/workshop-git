@@ -1,9 +1,9 @@
 # Manual Git &#8594; GitHub
 
-This document is the result of the Junior Enterprise for Science and Technology team's internal training workshop held on November 11, 2020.
+This document is the result of the Junior Enterprise for Science and Technology team's internal training.
 
-**Version: v1.05 (2020-11-21)**  
-**Copyright (c) 2020, [Tiago Tamagusko](https://github.com/tamagusko).**
+**Version: v2.0 (2021-05-29)**  
+**Copyright (c) 2021, [Tiago Tamagusko](https://github.com/tamagusko).**
 
 ## Installation
 
@@ -44,15 +44,15 @@ git config --list
 
 ### What is Git?
 
-Git is distributed Version Control Software (VCS). Versioning is a way to keep a project from developing over time, while storing a project history. Each developer working has a local Git repository, which has a copy of the entire repository. This developer can change and test functionality and only make the contribution of the ready/correct part. This is different from the dropbox, where every saved change is synchronized with the main folder. With Git, the chance of you breaking the project substantially decreases.
+Git is distributed Version Control Software. Versioning is a way to keep a project from developing over time, while storing a project history. Each developer working has a local Git repository, which has a copy of the entire repository. This developer can change and test functionality and only make the contribution of the ready/correct part. This is different from the dropbox, where every saved change is synchronized with the main folder. With Git, the chance of you breaking the project substantially decreases.
 
 ### Git + GitHub workflow
 
-When you work with Git and GitHub, you have a local repository (working folder) and a remote repository (github.com). The advantage is that you can work on your features locally, and when you want, you can send the improvements to the remote repository (git push).
+When you work with Git and GitHub, you have a local repository and a remote repository (github.com). The advantage is that you can work on your features locally, and when you want, you can send the improvements to the remote repository (git push). So, GitHub is a server in the cloud that hosts repositories with git technology.
 
 ![Workflow & Commonly Used Commands [4]](fig/gitFlow.jpg){ width=40% }
 
-It is considered good practice to divide each feature developed into a branch (Fig. 2), this facilitates future revisions and corrections.
+It is considered good practice to divide each feature developed into a branch (Fig. 2).
 
 ![Recommended Project Flow [5]](fig/gitWorkflow.png){ width=50% }
 
