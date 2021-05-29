@@ -53,6 +53,7 @@ quick reference to the Markdown syntax.
 [@nuno](https://github.com/NunoAGM) [@tamagusko](https://github.com/tamagusko) [@vasco](https://github.com/VascoMSantos)
 
 ### 2nd workshop (2020-05-29):
+[@nunoMiguel](https://github.com/1nuno) [@fmrsantos4](https://github.com/fmrsantos4) [@ClarisseHenriques](https://github.com/ClarisseHenriques)
 ----
 
 Please direct bug reports and pull requests to the GitHub page. To contact me directly, send email to tamagusko@gmail.com.
